@@ -54,6 +54,8 @@ button {
   font-weight: 600;
 }
 
+button2 {background-color: #F5E503;}
+
 div > :first-child {
   background: #ffea00;
 }
